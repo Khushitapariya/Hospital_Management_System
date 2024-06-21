@@ -5,3 +5,14 @@ To make the code more readable to everyone, please flow the following guidlines.
 * Use comment to explain the code.
 
 ![image](https://user-images.githubusercontent.com/11453784/137763392-0b567a0b-32a1-4bc4-9432-90209dd1db2f.png)
+
+                                                                                   RECEPECTION
+                                                                                        |
+                                                                                       / \
+                                                                                      /   \
+                                                                                Doctor      Patient
+                                                                                  |            |
+                                                                                /   \         /  \
+                                                                              /       \      /    \
+                                                                            /           \   /      \
+                                                                   Available On         Person     Disease
